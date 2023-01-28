@@ -1,0 +1,11 @@
+{
+  "name": "generateur-de-code",
+  "version": "1.0.0",
+  "description": "Generateur de code de promotion",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "author": "Berry Malo",
+  "license": "ISC"
+}
